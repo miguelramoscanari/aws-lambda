@@ -6,10 +6,6 @@ import pandas as pd
 import requests
 from datetime import datetime
 import boto3
-
-#from sqlalchemy import create_engine, text
-#import psycopg2
-#from dotenv import load_dotenv
 import os
 
 
